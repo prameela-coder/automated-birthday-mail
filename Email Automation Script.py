@@ -10,8 +10,8 @@ df = pd.read_excel('employeedetails.xlsx')
 emails = df['email'].tolist()
 
 # Email configuration
-sender_email = "prameelakala340@gmail.com"
-sender_password = "jathin0504$"
+sender_email = ";jkbassacjkxjbc;j@gmail.com"
+sender_password = "*******"
 subject = "Automated Email Notification"
 body = "hello This is an automated message sent to all employees."
 
